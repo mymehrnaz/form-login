@@ -1,0 +1,29 @@
+.container{
+  max-width:450px;
+    height: 300px;
+    border: 1px solid #88B295;
+    background-color :#0E492E;
+    border-radius :15px;
+    margin-top :20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+h1{
+    color: white;
+    text-align :center;
+    margin-top :12px;
+    filter: drop-shadow(1px 1px 30px #ffd226) ;
+}
+.submit{
+    background :#53654F;
+    color: #B8CBB4;
+}
+.form{
+    display :flex;
+    justify-content :center;
+}
+.lable{
+    color: white;
+}
+.submit{
+  margin-top: 8px;
+}
